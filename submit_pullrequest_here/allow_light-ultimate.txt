@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2805
+secure.everyaction.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2804
 fingerprint.pb.ua
 
