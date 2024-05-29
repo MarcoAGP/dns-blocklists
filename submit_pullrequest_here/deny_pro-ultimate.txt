@@ -42,6 +42,7 @@ a-collector.errors.ea.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2676
 # https://github.com/hagezi/dns-blocklists/issues/2803
+ads.prod.webservices.mozgcp.net
 contile-images.services.mozilla.com
 contile.services.mozilla.com
 crash-analysis.mozilla.com
@@ -82,6 +83,11 @@ dataops.mozgcp.net
 firefox-android-home-recommendations.getpocket.com
 normandy-cdn.services.mozilla.com
 normandy.cdn.mozilla.net
+snippets-prod.frankfurt.moz.works
+snippets-prod.moz.works
+snippets-stage.moz.works
+snippets-stage.oregon-b.moz.works
+socorro-webapp-allizom.stage.mozaws.net
 socorro-webapp.services.mozilla.com
 spocs.getpocket.com
 telemetry-coverage.mozilla.com
