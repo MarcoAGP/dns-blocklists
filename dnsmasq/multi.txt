@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 00:37 UTC
-# Version: 2024.0530.0037.32
+# Last modified: 30 May 2024 12:45 UTC
+# Version: 2024.0530.1245.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 139679
+# Number of entries: 139686
 #
 local=/0-02.net/
 local=/0008d6ba2e.com/
@@ -708,7 +708,7 @@ local=/1bf00b950c.com/
 local=/1bm3n8sld.de/
 local=/1c447fc5b7.com/
 local=/1c4912370a.com/
-local=/ede3d8764d.1c7cf19baa.com/
+local=/1c7cf19baa.com/
 local=/1c9ca7ac71.com/
 local=/1cash.info/
 local=/1ccbt.com/
@@ -53499,6 +53499,7 @@ local=/fjhrq.xyz/
 local=/fjiorox.com/
 local=/fjjkoeikkdjfjkdd.site/
 local=/fjnsnt.xyz/
+local=/fjqcqdr.icu/
 local=/fjshxjs.cn/
 local=/fjwymafkgqfq.xyz/
 local=/fjxowepqiwrdao.com/
@@ -61828,7 +61829,6 @@ local=/analytics.harveydelaney.com/
 local=/matomo.harz-history.de/
 local=/harzfriends.de/
 local=/tigershark.hasanahmad.ca/
-local=/hasbh6sb-hab3216jhxbxjh.xyz/
 local=/omn.hasbro.com/
 local=/omn2.hasbro.com/
 local=/hasdarot.cc/
@@ -98250,6 +98250,7 @@ local=/pm0.net/
 local=/analytics.pma-mobile.com/
 local=/pmaosrgeieft.com/
 local=/analytics.pmb.ro/
+local=/pmblrt.xyz/
 local=/pmbox.biz/
 local=/li.pmc.com/
 local=/pmc1201.com/
@@ -104043,7 +104044,6 @@ local=/realtraf.net/
 local=/wkudly.realtruck.com/
 local=/uzevnf.realtystore.com/
 local=/realvu.net/
-local=/realwap.net/
 local=/aff.realwoman.sk/
 local=/secure.realwomenofphiladelphia.ca/
 local=/realxavounow.com/
@@ -126109,6 +126109,7 @@ local=/ufphkyw.com/
 local=/jxiwdw.ufret.jp/
 local=/grado.ufv.es/
 local=/ufzanvc.com/
+local=/ug5m.guru/
 local=/t.pac.uga.edu/
 local=/analytics.ugaitzg.net/
 local=/ugalia.com/
@@ -134111,6 +134112,7 @@ local=/winpbn.com/
 local=/winr.online/
 local=/winsbank.io/
 local=/analytics.winsightmedia.com/
+local=/winsim.co/
 local=/stats.winsim.de/
 local=/winslinks.com/
 local=/winstabule.digital/
@@ -134233,6 +134235,7 @@ local=/wishoutergrown.com/
 local=/analytics.wishtobethere.com/
 local=/wishuiuck.net/
 local=/wismog.xyz/
+local=/c677.wisn.com/
 local=/wisoper.click/
 local=/wissedkainits.life/
 local=/iqmetrics.wissen.de/
@@ -134437,6 +134440,7 @@ local=/wleallwllbkok.top/
 local=/analytics.wligtenberg.nl/
 local=/s.wlink1.com/
 local=/s.wlink2.com/
+local=/e993.wlky.com/
 local=/analytics.wllv.de/
 local=/wlmarketing.com/
 local=/axp.wlns.com/
@@ -134448,6 +134452,7 @@ local=/wlt-jupiter.de/
 local=/ywrcqa.wltx.com/
 local=/wlunword.com/
 local=/wlvkzwqjlyzvr.top/
+local=/u578.wlwt.com/
 local=/wlyfiii.com/
 local=/wlzlrlp.xyz/
 local=/wlzzwzekkrrzw.top/
@@ -138208,6 +138213,7 @@ local=/yyyaih.icu/
 local=/yzcpgadw.icu/
 local=/yzerabwdkpaee.com/
 local=/yzfrapd.xyz/
+local=/yzgbsg.xyz/
 local=/yzgid.cn/
 local=/yziwoidi.icu/
 local=/yzjihang.cn/
@@ -138842,6 +138848,7 @@ local=/zezvty.com/
 local=/ssp.zf313.com/
 local=/zf678.com/
 local=/zfacts.com/
+local=/zfcoin.cn/
 local=/zfctrack.net/
 local=/zfeaubp.com/
 local=/zfehvv.xyz/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 00:28 UTC
-# Version: 2024.0530.0028.48
+# Last modified: 30 May 2024 12:37 UTC
+# Version: 2024.0530.1237.58
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 67488
+# Number of entries: 67490
 #
 server=/0-02.net/
 server=/0008d6ba2e.com/
@@ -49951,7 +49951,6 @@ server=/realtraf.net/
 server=/wkudly.realtruck.com/
 server=/uzevnf.realtystore.com/
 server=/realvu.net/
-server=/realwap.net/
 server=/realxavounow.com/
 server=/realxz.com/
 server=/realytics.io/
@@ -64594,6 +64593,7 @@ server=/wishloop.com/
 server=/wishoblivionfinished.com/
 server=/wishoutergrown.com/
 server=/wismog.xyz/
+server=/c677.wisn.com/
 server=/wisoper.click/
 server=/iqmetrics.wissen.de/
 server=/wister.biz/
@@ -64694,6 +64694,7 @@ server=/wlct-one.de/
 server=/wlct-two.de/
 server=/wleallwllbkok.top/
 server=/s.wlink1.com/
+server=/e993.wlky.com/
 server=/wlmarketing.com/
 server=/axp.wlns.com/
 server=/wlrkcefll.com/
@@ -64703,6 +64704,7 @@ server=/wlt-alice.de/
 server=/wlt-jupiter.de/
 server=/ywrcqa.wltx.com/
 server=/wlvkzwqjlyzvr.top/
+server=/u578.wlwt.com/
 server=/wlyfiii.com/
 server=/wlzlrlp.xyz/
 server=/wlzzwzekkrrzw.top/

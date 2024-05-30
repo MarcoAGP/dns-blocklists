@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 May 2024 02:22 UTC
-! Version: 2024.0530.0222.14
+! Last modified: 30 May 2024 13:48 UTC
+! Version: 2024.0530.1348.16
 ! Syntax: AdBlock
-! Number of entries: 91294
+! Number of entries: 91304
 !
 ||0.org^
 ||0.to^
@@ -998,6 +998,7 @@
 ||2016uswomensopen.com^
 ||2017uswomensopen.com^
 ||2019-coronavirus-tracker.com^
+||2020covid19.com^
 ||2020microclinic.org^
 ||2020mustang.com^
 ||analytics.2020spaces.com^
@@ -1784,6 +1785,7 @@
 ||41-world.com^
 ||41033fcd44.com^
 ||4111ae9ec0.com^
+||411corona.com^
 ||4125ce3497.com^
 ||412fe7fd10.com^
 ||415677.com^
@@ -2374,6 +2376,7 @@
 ||6snjvxkawrtolv2x.pro^
 ||6srvfcm.com^
 ||tracking.6thstreet.com^
+||6uzxtlv.cn^
 ||6v41p4bsq.com^
 ||xsell.6waves.com^
 ||6xtpke4.com^
@@ -3826,7 +3829,7 @@
 ||temptation.ad.nl^
 ||voordeel.ad.nl^
 ||ad-adapex.io^
-||track.ad-adblock.com^
+||ad-adblock.com^
 ||ad-adserver.com^
 ||ad-analyze.jp^
 ||ad-arrow.com^
@@ -5839,7 +5842,6 @@
 ||analytics.afi.es^
 ||afi-b.com^
 ||afi-thor.com^
-||afiliapub.click^
 ||afilo.pl^
 ||analytics.afirstsoft.cn^
 ||afishamedia.net^
@@ -13097,6 +13099,7 @@
 ||ucs.betwaygroup.com^
 ||betweendigital.com^
 ||betweenx.com^
+||betwinner1.com^
 ||betwinneraffiliates.com^
 ||betwinnerpromo.com^
 ||tracker.betwoon365affiliates.com^
@@ -23989,7 +23992,7 @@
 ||track.cornzself.com^
 ||corolain.ru^
 ||metrics.corom.vn^
-||coronacomments.com^
+||corona-win.com^
 ||monetize-api.coronalabs.com^
 ||stats.coronalabs.com^
 ||coronationinjurynoncommittal.com^
@@ -25376,6 +25379,7 @@
 ||dad524dd40.com^
 ||dada.pro^
 ||dadbab.info^
+||dadescovid.cat^
 ||track.daduola.com^
 ||dadxnl.xyz^
 ||daejyre.com^
@@ -29815,6 +29819,7 @@
 ||start.adelaide.edu.au^
 ||analytics.edu.vn^
 ||trk.baskent.edu.tr^
+||blogs.isb.bj.edu.cn^
 ||countly.bjtu.edu.cn^
 ||track.bjtu.edu.cn^
 ||matomo.prc.boun.edu.tr^
@@ -33782,7 +33787,7 @@
 ||beacon.flow.io^
 ||track.flow.club^
 ||flow8free.com^
-||analytics-collector.flowcode.com^
+||flowcode.com^
 ||flower-ads.com^
 ||flowerasunder.com^
 ||flowerbooklet.com^
@@ -35803,6 +35808,7 @@
 ||mklik.gazeta.pl^
 ||p.gazeta.pl^
 ||squid.gazeta.pl^
+||gazetemcesme.com^
 ||gb1aff.com^
 ||gbcash.com^
 ||gbcnvip15.com^
@@ -37163,7 +37169,6 @@
 ||track.jakarta.go.id^
 ||analytics.kdca.go.kr^
 ||matomo.kemkes.go.id^
-||parisiporlin-ktki.kemkes.go.id^
 ||analytics.kemlu.go.id^
 ||sentry.kemlu.go.id^
 ||plausible.kemnaker.go.id^
@@ -43388,6 +43393,7 @@
 ||instagrom.com^
 ||instaimgs.com^
 ||stats.instajob.ai^
+||install-adblockers.com^
 ||dist.install-adblocking.com^
 ||install-check.com^
 ||install-extension.com^
@@ -58013,6 +58019,7 @@
 ||objectivepressure.com^
 ||obkgavorztij.com^
 ||get-ip.obkio.com^
+||obl74.xyz^
 ||obligebuffaloirresolute.com^
 ||obligedjaghire.com^
 ||obligemadeuprough.com^
@@ -62503,6 +62510,7 @@
 ||track.alerts.pjnewsletter.com^
 ||pjnwmbz.com^
 ||pjoibbc.com^
+||pjoo8.com^
 ||wa.pjplace.com^
 ||pjqchcfwtw.com^
 ||pjsbuhl.icu^
@@ -66953,7 +66961,6 @@
 ||uzevnf.realtystore.com^
 ||realvu.com^
 ||realvu.net^
-||realwap.net^
 ||realxavounow.com^
 ||realxz.com^
 ||realytics.io^
@@ -69485,7 +69492,6 @@
 ||sachikru1.com^
 ||sackbarngroups.com^
 ||sackerskips.com^
-||sacovid19solution.com^
 ||sacquebenzine.com^
 ||sacre.cn^
 ||sacrificeaffliction.com^
@@ -81739,6 +81745,7 @@
 ||u68t5.icu^
 ||u6s1q5u0y.com^
 ||u78s.top^
+||u7em6.xyz^
 ||u7kgr54jr7.ru^
 ||u7u9.com^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
@@ -87185,6 +87192,7 @@
 ||trk.wishsender2.com^
 ||k760.wislawjournal.com^
 ||wismog.xyz^
+||c677.wisn.com^
 ||wisokykulas.bid^
 ||wisoper.click^
 ||iqmetrics.wissen.de^
@@ -87334,6 +87342,7 @@
 ||wlct-two.de^
 ||wleallwllbkok.top^
 ||s.wlink1.com^
+||e993.wlky.com^
 ||wlmarketing.com^
 ||axp.wlns.com^
 ||blue.wlns.com^
@@ -87345,6 +87354,7 @@
 ||wlt-jupiter.de^
 ||ywrcqa.wltx.com^
 ||wlvkzwqjlyzvr.top^
+||u578.wlwt.com^
 ||wlyfiii.com^
 ||wlzlrlp.xyz^
 ||wlzzwzekkrrzw.top^

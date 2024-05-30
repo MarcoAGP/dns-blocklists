@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 00:28 UTC
-# Version: 2024.0530.0028.48
+# Last modified: 30 May 2024 12:37 UTC
+# Version: 2024.0530.1237.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 67488
+# Number of entries: 67490
 #
 local=/0-02.net/
 local=/0008d6ba2e.com/
@@ -49951,7 +49951,6 @@ local=/realtraf.net/
 local=/wkudly.realtruck.com/
 local=/uzevnf.realtystore.com/
 local=/realvu.net/
-local=/realwap.net/
 local=/realxavounow.com/
 local=/realxz.com/
 local=/realytics.io/
@@ -64594,6 +64593,7 @@ local=/wishloop.com/
 local=/wishoblivionfinished.com/
 local=/wishoutergrown.com/
 local=/wismog.xyz/
+local=/c677.wisn.com/
 local=/wisoper.click/
 local=/iqmetrics.wissen.de/
 local=/wister.biz/
@@ -64694,6 +64694,7 @@ local=/wlct-one.de/
 local=/wlct-two.de/
 local=/wleallwllbkok.top/
 local=/s.wlink1.com/
+local=/e993.wlky.com/
 local=/wlmarketing.com/
 local=/axp.wlns.com/
 local=/wlrkcefll.com/
@@ -64703,6 +64704,7 @@ local=/wlt-alice.de/
 local=/wlt-jupiter.de/
 local=/ywrcqa.wltx.com/
 local=/wlvkzwqjlyzvr.top/
+local=/u578.wlwt.com/
 local=/wlyfiii.com/
 local=/wlzlrlp.xyz/
 local=/wlzzwzekkrrzw.top/

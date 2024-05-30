@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 May 2024 01:22 UTC
-! Version: 2024.0530.0122.55
+! Last modified: 30 May 2024 13:18 UTC
+! Version: 2024.0530.1318.09
 ! Syntax: AdBlock
-! Number of entries: 79559
+! Number of entries: 79573
 !
 ||0.org^
 ||0.to^
@@ -847,6 +847,7 @@
 ||1winofficial-sitevhod.cyou^
 ||1winpost.com^
 ||1winslots.cyou^
+||1wnurc.com^
 ||1wtwaq.xyz^
 ||1x.de^
 ||1x-bet77923.world^
@@ -891,6 +892,7 @@
 ||2016uswomensopen.com^
 ||2017uswomensopen.com^
 ||2019-coronavirus-tracker.com^
+||2020covid19.com^
 ||2020microclinic.org^
 ||2020mustang.com^
 ||analytics.2020spaces.com^
@@ -2258,6 +2260,7 @@
 ||41-world.com^
 ||41033fcd44.com^
 ||4111ae9ec0.com^
+||411corona.com^
 ||4125ce3497.com^
 ||412fe7fd10.com^
 ||415677.com^
@@ -4012,6 +4015,7 @@
 ||temptation.ad.nl^
 ||voordeel.ad.nl^
 ||ad-adapex.io^
+||ad-adblock.com^
 ||ad-analyze.jp^
 ||ad-arrow.com^
 ||ad-back.net^
@@ -11587,6 +11591,7 @@
 ||tms.betway.com^
 ||ucs.betwaygroup.com^
 ||betweendigital.com^
+||betwinner1.com^
 ||betwinneraffiliates.com^
 ||betwinnerpromo.com^
 ||betyhupte.com^
@@ -14971,6 +14976,7 @@
 ||cdn-server.cc^
 ||cdn-server.live^
 ||cdn-server.top^
+||cdn-service.com^
 ||cdn-sitegainer.com^
 ||cdn-spurit.com^
 ||10945-2.s.cdn15.com^
@@ -20685,7 +20691,7 @@
 ||cornflowercopier.com^
 ||corolain.ru^
 ||metrics.corom.vn^
-||coronacomments.com^
+||corona-win.com^
 ||monetize-api.coronalabs.com^
 ||stats.coronalabs.com^
 ||coronationinjurynoncommittal.com^
@@ -21842,6 +21848,7 @@
 ||dacronblanchi.guru^
 ||dad524dd40.com^
 ||dadbab.info^
+||dadescovid.cat^
 ||dadxnl.xyz^
 ||daejyre.com^
 ||daemonshymens.com^
@@ -27032,6 +27039,7 @@
 ||analytics.adelaide.edu.au^
 ||start.adelaide.edu.au^
 ||analytics.edu.vn^
+||blogs.isb.bj.edu.cn^
 ||countly.bjtu.edu.cn^
 ||matomo.prc.boun.edu.tr^
 ||belong.curtin.edu.au^
@@ -30280,7 +30288,7 @@
 ||flourishingpartnership.com^
 ||beacon.flow.io^
 ||flow8free.com^
-||analytics-collector.flowcode.com^
+||flowcode.com^
 ||flower-ads.com^
 ||flowerasunder.com^
 ||flowerbooklet.com^
@@ -31911,6 +31919,7 @@
 ||biv.gazeta.pl^
 ||mklik.gazeta.pl^
 ||p.gazeta.pl^
+||gazetemcesme.com^
 ||gb1aff.com^
 ||gbcash.com^
 ||gbcnvip15.com^
@@ -32997,7 +33006,6 @@
 ||w88.m.espn.go.com^
 ||analytics.kdca.go.kr^
 ||matomo.kemkes.go.id^
-||parisiporlin-ktki.kemkes.go.id^
 ||analytics.kemlu.go.id^
 ||plausible.kemnaker.go.id^
 ||weblog.kma.go.kr^
@@ -35827,6 +35835,7 @@
 ||holdenthusiastichalt.com^
 ||holdhostel.space^
 ||matomo.holding-graz.at^
+||holdingholly.space^
 ||holdingwager.com^
 ||holdntlc.com^
 ||holdonstranger.com^
@@ -38059,6 +38068,7 @@
 ||badges.instagram.com^
 ||instagrem.com^
 ||instagrom.com^
+||install-adblockers.com^
 ||dist.install-adblocking.com^
 ||install-check.com^
 ||installads.net^
@@ -39634,6 +39644,7 @@
 ||joacupoahy.com^
 ||joaglouwulin.com^
 ||fculcz.joann.com^
+||joannaiodisms.com^
 ||joannalawoffice.com^
 ||joasigeegrez.com^
 ||joastaca.com^
@@ -59519,6 +59530,7 @@
 ||randiul.com^
 ||randomadsrv.com^
 ||randomamongst.com^
+||randomdnslab.com^
 ||code.randomhouse.com^
 ||scode.randomhouse.com^
 ||eu.randomosity.xyz^
@@ -59885,7 +59897,6 @@
 ||wkudly.realtruck.com^
 ||uzevnf.realtystore.com^
 ||realvu.net^
-||realwap.net^
 ||realxavounow.com^
 ||realxz.com^
 ||realytics.io^
@@ -62041,7 +62052,6 @@
 ||sachikru1.com^
 ||sackbarngroups.com^
 ||sackerskips.com^
-||sacovid19solution.com^
 ||sacquebenzine.com^
 ||sacrificeaffliction.com^
 ||sacsshela.com^
@@ -64272,6 +64282,7 @@
 ||simpliftsbefore.info^
 ||analytics.simplii.com^
 ||w-profiling.simplii.com^
+||simplistic-king.pro^
 ||simplycast.com^
 ||simplyhelper.com^
 ||analytics.simplyhired-staging.com^
@@ -76284,6 +76295,7 @@
 ||wishoblivionfinished.com^
 ||wishoutergrown.com^
 ||wismog.xyz^
+||c677.wisn.com^
 ||wisoper.click^
 ||iqmetrics.wissen.de^
 ||wister.biz^
@@ -76394,6 +76406,7 @@
 ||wlct-two.de^
 ||wleallwllbkok.top^
 ||s.wlink1.com^
+||e993.wlky.com^
 ||wlmarketing.com^
 ||axp.wlns.com^
 ||wlrkcefll.com^
@@ -76403,6 +76416,7 @@
 ||wlt-jupiter.de^
 ||ywrcqa.wltx.com^
 ||wlvkzwqjlyzvr.top^
+||u578.wlwt.com^
 ||wlyfiii.com^
 ||wlzlrlp.xyz^
 ||wlzzwzekkrrzw.top^

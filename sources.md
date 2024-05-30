@@ -360,8 +360,6 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/free_web_hosting.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/onion.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
@@ -384,6 +382,7 @@ https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
 https://raw.githubusercontent.com/velesila/yhosts/master/hosts
 https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-abp.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_adblock.txt
 https://raw.githubusercontent.com/xRuffKez/NXPhish/main/nxphish.agh
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
@@ -391,9 +390,6 @@ https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/yous/youslist/master/hosts.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-paranoid.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://rescure.me/rescure_blacklist.txt
 https://rescure.me/rescure_domain_blacklist.txt

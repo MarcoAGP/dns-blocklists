@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 00:59 UTC
-# Version: 2024.0530.0059.35
+# Last modified: 30 May 2024 12:56 UTC
+# Version: 2024.0530.1256.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 160392
+# Number of entries: 160420
 #
 *.0.org
 *.0.to
@@ -469,6 +469,7 @@
 *.1040movie.com
 *.smetrics.1043freshradio.ca
 *.smetrics.1045freshradio.ca
+*.105.pl
 *.105app.com
 *.105lenzkubachjohnson.com
 *.105thehive.org
@@ -1036,7 +1037,7 @@
 *.1c1wmeii.club
 *.1c447fc5b7.com
 *.1c4912370a.com
-*.ede3d8764d.1c7cf19baa.com
+*.1c7cf19baa.com
 *.1c9ca7ac71.com
 *.1cash.info
 *.1cazinogrnd.club
@@ -1333,6 +1334,7 @@
 *.1winslots.cyou
 *.1wish.net
 *.1wisk.top
+*.1wnurc.com
 *.1worlditsolutions.com
 *.analytics.1wp.cloud
 *.1wtwaq.xyz
@@ -1402,6 +1404,7 @@
 *.1.201980.com
 *.201mb.com
 *.201vulkanvegas.com
+*.2020covid19.com
 *.2020microclinic.org
 *.2020mustang.com
 *.analytics.2020spaces.com
@@ -3202,6 +3205,7 @@
 *.411-spyware.com
 *.4111ae9ec0.com
 *.41166be14c.com
+*.411corona.com
 *.411d5f25.top
 *.411medias.com
 *.4125ce3497.com
@@ -6759,6 +6763,7 @@
 *.temptation.ad.nl
 *.voordeel.ad.nl
 *.ad-adapex.io
+*.ad-adblock.com
 *.ad-agent.com
 *.ad-alp.net
 *.ad-analyze.jp
@@ -9837,6 +9842,7 @@
 *.afi-thor.com
 *.afili.ru
 *.tk.afilia.lat
+*.afiliapub.click
 *.afilo.pl
 *.analytics.afirstsoft.cn
 *.kino.afisha21.ru
@@ -16669,6 +16675,7 @@
 *.astemolgachan.com
 *.analytics.asterapp.io
 *.asterbiscusys.com
+*.asterchildrenshoes.com
 *.asterinzaires.guru
 *.analytics.asteriosphp.de
 *.asteriresearch.com
@@ -21478,6 +21485,7 @@
 *.tms.betwaysatta1.com
 *.betweendigital.com
 *.betweentheracks.com
+*.betwinner1.com
 *.betwinneraffiliates.com
 *.betwinnerpromo.com
 *.betxerneastor.club
@@ -21847,6 +21855,7 @@
 *.bigbonga.com
 *.bigbootymania.com
 *.bigbord.net
+*.bigbossmanagement.com
 *.bigboy.monster
 *.bigboyfirearms.com
 *.bigbrain.me
@@ -26006,7 +26015,6 @@
 *.posthog.bunny.net
 *.rum-metrics.bunny.net
 *.bunny-net.com
-*.storage.bunnycdn.com
 *.bunquaver.com
 *.dcclaa.bunte.de
 *.rt.bunte.de
@@ -28588,6 +28596,7 @@
 *.cdn-server.cc
 *.cdn-server.live
 *.cdn-server.top
+*.cdn-service.com
 *.cdn-sitegainer.com
 *.cdn-spurit.com
 *.cdn1.pro
@@ -40802,7 +40811,7 @@
 *.analytics.corona-memory.ch
 *.stats.corona-navi.de
 *.corona-virusapps.com
-*.coronacomments.com
+*.corona-win.com
 *.coronafly.ru
 *.monetize-api.coronalabs.com
 *.stats.coronalabs.com
@@ -42856,6 +42865,7 @@
 *.cxtkpfbvu.com
 *.execution-360-cicolusp.cxtrvl.com
 *.cxtvli.com
+*.cy.tc
 *.cy6vzhldh0on.top
 *.cya1t.net
 *.cya2.net
@@ -43216,6 +43226,7 @@
 *.dadawm.cc
 *.dadbab.info
 *.daddyclub.net
+*.dadescovid.cat
 *.dadi.technology
 *.js1.dadiniu.cn
 *.dadsats.com
@@ -53550,6 +53561,7 @@
 *.smetrics.australiancurriculum.edu.au
 *.education.bendigotafe.edu.au
 *.events.bendigotafe.edu.au
+*.blogs.isb.bj.edu.cn
 *.countly.bjtu.edu.cn
 *.matomo.prc.boun.edu.tr
 *.atarget.csu.edu.au
@@ -60244,6 +60256,7 @@
 *.fjiorox.com
 *.fjjkoeikkdjfjkdd.site
 *.fjnsnt.xyz
+*.fjqcqdr.icu
 *.fjshxjs.cn
 *.fjwymafkgqfq.xyz
 *.fjxowepqiwrdao.com
@@ -60683,7 +60696,7 @@
 *.beacon.flow.io
 *.flow8free.com
 *.gagysn.floward.com
-*.analytics-collector.flowcode.com
+*.flowcode.com
 *.plausible.flowcv.io
 *.flower-ads.com
 *.flowerasunder.com
@@ -66268,7 +66281,6 @@
 *.analytics.ftc.go.kr
 *.analytics.kdca.go.kr
 *.matomo.kemkes.go.id
-*.parisiporlin-ktki.kemkes.go.id
 *.analytics.kemlu.go.id
 *.plausible.kemnaker.go.id
 *.weblog.kma.go.kr
@@ -68951,6 +68963,7 @@
 *.h52ek3i.de
 *.bm.h576.com
 *.h5acg2020.com
+*.h5lwvwj.top
 *.piwik.h5mag.com
 *.h5r2dzdwqk.com
 *.h5t4rsw-htrs.jp
@@ -69691,7 +69704,6 @@
 *.matomo.harz-history.de
 *.harzfriends.de
 *.tigershark.hasanahmad.ca
-*.hasbh6sb-hab3216jhxbxjh.xyz
 *.omn.hasbro.com
 *.omn2.hasbro.com
 *.hasdarot.cc
@@ -72061,6 +72073,7 @@
 *.plausible.holderbaum-academy.de
 *.holdhostel.space
 *.matomo.holding-graz.at
+*.holdingholly.space
 *.holdingsenatecabin.com
 *.holdingwager.com
 *.ca.ssl.holdmybeerconsulting.com
@@ -76635,6 +76648,7 @@
 *.instahookups5.com
 *.instajoint.social
 *.instakink.com
+*.install-adblockers.com
 *.dist.install-adblocking.com
 *.install-check.com
 *.installads.net
@@ -80688,6 +80702,7 @@
 *.joaglouwulin.com
 *.analytics.joanmorell.com
 *.fculcz.joann.com
+*.joannaiodisms.com
 *.joannalawoffice.com
 *.analytics.joanpc.com
 *.stats.joaopedro.dev
@@ -95296,6 +95311,7 @@
 *.mnbasd77.com
 *.mnbvc34.com
 *.mnbvcdfghuytrfghj.site
+*.mnbvcxz.biz
 *.mnbvjhg.com
 *.analytic.mncanalytics.net
 *.analytics.mncanoeing.com
@@ -101165,6 +101181,7 @@
 *.app.nhra.com
 *.t.nhra.com
 *.y738.nhregister.com
+*.nhri.net
 *.piwik.scot.nhs.uk
 *.nhs58.com
 *.analytics.nhsolutions.be
@@ -113581,6 +113598,7 @@
 *.analytics.pma-mobile.com
 *.pmaosrgeieft.com
 *.analytics.pmb.ro
+*.pmblrt.xyz
 *.pmbox.biz
 *.li.pmc.com
 *.pmc1201.com
@@ -119468,6 +119486,7 @@
 *.lp.rallypoint.com
 *.matomo.rallypoint.com
 *.ralodithas.com
+*.ralph-lauren-pas-cher.fr
 *.metrics.ralphlauren.com
 *.metrics.ralphlauren.fr
 *.smetrics.ralphlauren.be
@@ -119575,6 +119594,7 @@
 *.randomadsrv.com
 *.randomamongst.com
 *.randomassertiveacacia.com
+*.randomdnslab.com
 *.code.randomhouse.com
 *.scode.randomhouse.com
 *.randomignitiondentist.com
@@ -120283,7 +120303,6 @@
 *.wkudly.realtruck.com
 *.uzevnf.realtystore.com
 *.realvu.net
-*.realwap.net
 *.aff.realwoman.sk
 *.secure.realwomenofphiladelphia.ca
 *.realxavounow.com
@@ -122913,6 +122932,7 @@
 *.roaddataay.live
 *.roadformedomission.com
 *.roadmappenal.com
+*.roadrunnerexpress.co
 *.metrics.roadrunnersports.com
 *.roajaiwoul.com
 *.roamapheejub.com
@@ -124541,7 +124561,6 @@
 *.sackerskips.com
 *.sackprovisionalwanted.com
 *.saclongchampspascher.fr
-*.sacovid19solution.com
 *.sacquebenzine.com
 *.sacredperpetratorbasketball.com
 *.sacrificeaffliction.com
@@ -129368,6 +129387,7 @@
 *.w-profiling.simplii.com
 *.www2.simplilearn.com
 *.stats.simplinetworks.com
+*.simplistic-king.pro
 *.simplisticstem.com
 *.0i.simply-hentai.com
 *.t.simply-hentai.com
@@ -145202,6 +145222,7 @@
 *.grado.ufv.es
 *.ufywrwcuhoszqc.com
 *.ufzanvc.com
+*.ug5m.guru
 *.t.pac.uga.edu
 *.analytics.ugaitzg.net
 *.ugalia.com
@@ -146337,6 +146358,7 @@
 *.unvextcentavo.com
 *.unwarpmarring.website
 *.unwartortlean.com
+*.unwaveringmedia.com
 *.unweezingr.com
 *.unwice.com
 *.unwieldyhealth.com
@@ -154043,6 +154065,7 @@
 *.winroc.us
 *.winsbank.io
 *.analytics.winsightmedia.com
+*.winsim.co
 *.stats.winsim.de
 *.winslinks.com
 *.winstabule.digital
@@ -154174,6 +154197,7 @@
 *.wishuiuck.net
 *.wisittech.com
 *.wismog.xyz
+*.c677.wisn.com
 *.wisnutrition.live
 *.wisoper.click
 *.wissedkainits.life
@@ -154397,6 +154421,7 @@
 *.analytics.wligtenberg.nl
 *.s.wlink1.com
 *.s.wlink2.com
+*.e993.wlky.com
 *.analytics.wllv.de
 *.wlmarketing.com
 *.axp.wlns.com
@@ -154408,6 +154433,7 @@
 *.ywrcqa.wltx.com
 *.wlunword.com
 *.wlvkzwqjlyzvr.top
+*.u578.wlwt.com
 *.wlyfiii.com
 *.wlzlrlp.xyz
 *.wlzzwzekkrrzw.top
@@ -158752,6 +158778,7 @@
 *.yzcpgadw.icu
 *.yzerabwdkpaee.com
 *.yzfrapd.xyz
+*.yzgbsg.xyz
 *.yzgid.cn
 *.yziwoidi.icu
 *.yzjihang.cn
@@ -159462,6 +159489,7 @@
 *.ssp.zf313.com
 *.zf678.com
 *.zfacts.com
+*.zfcoin.cn
 *.zfctrack.net
 *.zfeaubp.com
 *.zfehvv.xyz

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1717021980 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1717079100 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 May 2024 22:33 UTC
-; Version: 2024.0529.2233.20
+; Last modified: 30 May 2024 14:25 UTC
+; Version: 2024.0530.1425.16
 ; Syntax: RPZ
-; Number of entries: 3658
+; Number of entries: 3648
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -99,8 +99,6 @@ netspace.net.au CNAME .
 *.netspace.net.au CNAME .
 blog.ba CNAME .
 *.blog.ba CNAME .
-blogger.ba CNAME .
-*.blogger.ba CNAME .
 blogspot.ba CNAME .
 *.blogspot.ba CNAME .
 blogspot.be CNAME .
@@ -147,8 +145,6 @@ wallinside.blog CNAME .
 *.wallinside.blog CNAME .
 webnode.bo CNAME .
 *.webnode.bo CNAME .
-blogger.com.br CNAME .
-*.blogger.com.br CNAME .
 blogspot.com.br CNAME .
 *.blogspot.com.br CNAME .
 lojaintegrada.com.br CNAME .
@@ -569,8 +565,6 @@ bloggazza.com CNAME .
 *.bloggazza.com CNAME .
 bloggazzo.com CNAME .
 *.bloggazzo.com CNAME .
-blogger.com CNAME .
-*.blogger.com CNAME .
 bloggerbags.com CNAME .
 *.bloggerbags.com CNAME .
 bloggerchest.com CNAME .
@@ -1037,8 +1031,6 @@ godaddysites.com CNAME .
 *.godaddysites.com CNAME .
 gofreeserve.com CNAME .
 *.gofreeserve.com CNAME .
-blogger.l.google.com CNAME .
-*.blogger.l.google.com CNAME .
 sites.googlegroups.com CNAME .
 *.sites.googlegroups.com CNAME .
 blogspot.l.googleusercontent.com CNAME .
@@ -1861,8 +1853,6 @@ blog1.de CNAME .
 *.blog1.de CNAME .
 blogg.de CNAME .
 *.blogg.de CNAME .
-blogger.de CNAME .
-*.blogger.de CNAME .
 bloggt.de CNAME .
 *.bloggt.de CNAME .
 blogmonster.de CNAME .

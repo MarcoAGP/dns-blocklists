@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 00:37 UTC
-# Version: 2024.0530.0037.32
+# Last modified: 30 May 2024 12:45 UTC
+# Version: 2024.0530.1245.25
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 139679
+# Number of entries: 139686
 #
 server=/0-02.net/
 server=/0008d6ba2e.com/
@@ -708,7 +708,7 @@ server=/1bf00b950c.com/
 server=/1bm3n8sld.de/
 server=/1c447fc5b7.com/
 server=/1c4912370a.com/
-server=/ede3d8764d.1c7cf19baa.com/
+server=/1c7cf19baa.com/
 server=/1c9ca7ac71.com/
 server=/1cash.info/
 server=/1ccbt.com/
@@ -53499,6 +53499,7 @@ server=/fjhrq.xyz/
 server=/fjiorox.com/
 server=/fjjkoeikkdjfjkdd.site/
 server=/fjnsnt.xyz/
+server=/fjqcqdr.icu/
 server=/fjshxjs.cn/
 server=/fjwymafkgqfq.xyz/
 server=/fjxowepqiwrdao.com/
@@ -61828,7 +61829,6 @@ server=/analytics.harveydelaney.com/
 server=/matomo.harz-history.de/
 server=/harzfriends.de/
 server=/tigershark.hasanahmad.ca/
-server=/hasbh6sb-hab3216jhxbxjh.xyz/
 server=/omn.hasbro.com/
 server=/omn2.hasbro.com/
 server=/hasdarot.cc/
@@ -98250,6 +98250,7 @@ server=/pm0.net/
 server=/analytics.pma-mobile.com/
 server=/pmaosrgeieft.com/
 server=/analytics.pmb.ro/
+server=/pmblrt.xyz/
 server=/pmbox.biz/
 server=/li.pmc.com/
 server=/pmc1201.com/
@@ -104043,7 +104044,6 @@ server=/realtraf.net/
 server=/wkudly.realtruck.com/
 server=/uzevnf.realtystore.com/
 server=/realvu.net/
-server=/realwap.net/
 server=/aff.realwoman.sk/
 server=/secure.realwomenofphiladelphia.ca/
 server=/realxavounow.com/
@@ -126109,6 +126109,7 @@ server=/ufphkyw.com/
 server=/jxiwdw.ufret.jp/
 server=/grado.ufv.es/
 server=/ufzanvc.com/
+server=/ug5m.guru/
 server=/t.pac.uga.edu/
 server=/analytics.ugaitzg.net/
 server=/ugalia.com/
@@ -134108,6 +134109,7 @@ server=/winpbn.com/
 server=/winr.online/
 server=/winsbank.io/
 server=/analytics.winsightmedia.com/
+server=/winsim.co/
 server=/stats.winsim.de/
 server=/winslinks.com/
 server=/winstabule.digital/
@@ -134230,6 +134232,7 @@ server=/wishoutergrown.com/
 server=/analytics.wishtobethere.com/
 server=/wishuiuck.net/
 server=/wismog.xyz/
+server=/c677.wisn.com/
 server=/wisoper.click/
 server=/wissedkainits.life/
 server=/iqmetrics.wissen.de/
@@ -134434,6 +134437,7 @@ server=/wleallwllbkok.top/
 server=/analytics.wligtenberg.nl/
 server=/s.wlink1.com/
 server=/s.wlink2.com/
+server=/e993.wlky.com/
 server=/analytics.wllv.de/
 server=/wlmarketing.com/
 server=/axp.wlns.com/
@@ -134445,6 +134449,7 @@ server=/wlt-jupiter.de/
 server=/ywrcqa.wltx.com/
 server=/wlunword.com/
 server=/wlvkzwqjlyzvr.top/
+server=/u578.wlwt.com/
 server=/wlyfiii.com/
 server=/wlzlrlp.xyz/
 server=/wlzzwzekkrrzw.top/
@@ -138182,6 +138187,7 @@ server=/yyyaih.icu/
 server=/yzcpgadw.icu/
 server=/yzerabwdkpaee.com/
 server=/yzfrapd.xyz/
+server=/yzgbsg.xyz/
 server=/yzgid.cn/
 server=/yziwoidi.icu/
 server=/yzjihang.cn/
@@ -138816,6 +138822,7 @@ server=/zezvty.com/
 server=/ssp.zf313.com/
 server=/zf678.com/
 server=/zfacts.com/
+server=/zfcoin.cn/
 server=/zfctrack.net/
 server=/zfeaubp.com/
 server=/zfehvv.xyz/

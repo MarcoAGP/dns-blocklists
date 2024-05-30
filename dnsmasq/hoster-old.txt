@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 May 2024 22:33 UTC
-# Version: 2024.0529.2233.20
+# Last modified: 30 May 2024 14:25 UTC
+# Version: 2024.0530.1425.16
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 1829
+# Number of entries: 1824
 #
 server=/000a.de/
 server=/000space.com/
@@ -372,9 +372,6 @@ server=/bloggadores.com/
 server=/bloggang.com/
 server=/bloggazza.com/
 server=/bloggazzo.com/
-server=/blogger.ba/
-server=/blogger.com/
-server=/blogger.de/
 server=/blogger-news.net/
 server=/bloggerbags.com/
 server=/bloggerchest.com/
@@ -605,7 +602,6 @@ server=/webnode.co.uk/
 server=/collectblogs.com/
 server=/com.nu/
 server=/adr.com.ua/
-server=/blogger.com.br/
 server=/blogspot.com.ar/
 server=/blogspot.com.au/
 server=/blogspot.com.br/
@@ -932,7 +928,6 @@ server=/glifeblog.com/
 server=/goabroadblog.com/
 server=/godaddysites.com/
 server=/gofreeserve.com/
-server=/blogger.l.google.com/
 server=/sites.googlegroups.com/
 server=/blogspot.l.googleusercontent.com/
 server=/gotop100.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 03:07 UTC
-# Version: 2024.0530.0307.33
+# Last modified: 30 May 2024 14:20 UTC
+# Version: 2024.0530.1420.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 102086
+# Number of entries: 102094
 #
 0.org
 0.to
@@ -1019,6 +1019,7 @@ with.2-on-line.com
 2017uswomensopen.com
 2019-coronavirus-tracker.com
 2019happynewyear2018imagesdp.org
+2020covid19.com
 2020microclinic.org
 2020mustang.com
 analytics.2020spaces.com
@@ -1880,6 +1881,7 @@ analytics.404.limited
 41-world.com
 41033fcd44.com
 4111ae9ec0.com
+411corona.com
 4125ce3497.com
 412fe7fd10.com
 415677.com
@@ -2484,6 +2486,7 @@ revcity.6sense.com
 6snjvxkawrtolv2x.pro
 6srvfcm.com
 tracking.6thstreet.com
+6uzxtlv.cn
 6v41p4bsq.com
 xsell.6waves.com
 6xtpke4.com
@@ -4055,7 +4058,7 @@ temptation.ad.nl
 usdc1slx2119.ad.global
 voordeel.ad.nl
 ad-adapex.io
-track.ad-adblock.com
+ad-adblock.com
 ad-adserver.com
 ad-analyze.jp
 ad-arrow.com
@@ -6242,7 +6245,6 @@ afgzipohma.com
 analytics.afi.es
 afi-b.com
 afi-thor.com
-afiliapub.click
 afilo.pl
 analytics.afirstsoft.cn
 afishamedia.net
@@ -14990,6 +14992,7 @@ tms.betway.com
 ucs.betwaygroup.com
 betweendigital.com
 betweenx.com
+betwinner1.com
 betwinneraffiliates.com
 betwinnerpromo.com
 tracker.betwoon365affiliates.com
@@ -27034,7 +27037,7 @@ corntire.com
 track.cornzself.com
 corolain.ru
 metrics.corom.vn
-coronacomments.com
+corona-win.com
 monetize-api.coronalabs.com
 stats.coronalabs.com
 coronationinjurynoncommittal.com
@@ -28543,6 +28546,7 @@ dacronblanchi.guru
 dad524dd40.com
 dada.pro
 dadbab.info
+dadescovid.cat
 track.daduola.com
 dadxnl.xyz
 daejyre.com
@@ -33526,6 +33530,7 @@ analytics.adelaide.edu.au
 start.adelaide.edu.au
 analytics.edu.vn
 trk.baskent.edu.tr
+blogs.isb.bj.edu.cn
 countly.bjtu.edu.cn
 track.bjtu.edu.cn
 matomo.prc.boun.edu.tr
@@ -35238,6 +35243,7 @@ esy.es
 et.lv
 et-code.ru
 et-gv.fr
+et5k413t.rest
 analytics-video.etagi.com
 omni-analytics.etagi.com
 etahub.com
@@ -38002,7 +38008,7 @@ p.flourstech.com
 beacon.flow.io
 track.flow.club
 flow8free.com
-analytics-collector.flowcode.com
+flowcode.com
 flower-ads.com
 flowerasunder.com
 flowerbooklet.com
@@ -40190,6 +40196,7 @@ biv.gazeta.pl
 mklik.gazeta.pl
 p.gazeta.pl
 squid.gazeta.pl
+gazetemcesme.com
 gazo.space
 gb1aff.com
 gbcash.com
@@ -41783,7 +41790,6 @@ analytics.kdca.go.kr
 edu-track.kdca.go.kr
 track-nip.kdca.go.kr
 matomo.kemkes.go.id
-parisiporlin-ktki.kemkes.go.id
 analytics.kemlu.go.id
 sentry.kemlu.go.id
 plausible.kemnaker.go.id
@@ -48772,6 +48778,7 @@ instagrem.com
 instagrom.com
 instaimgs.com
 stats.instajob.ai
+install-adblockers.com
 dist.install-adblocking.com
 install-check.com
 install-extension.com
@@ -64894,6 +64901,7 @@ opt.objectiveportal.com
 objectivepressure.com
 obkgavorztij.com
 get-ip.obkio.com
+obl74.xyz
 obligebuffaloirresolute.com
 obligedjaghire.com
 obligemadeuprough.com
@@ -69775,6 +69783,7 @@ pjkyxrd15e.ru
 track.alerts.pjnewsletter.com
 pjnwmbz.com
 pjoibbc.com
+pjoo8.com
 wa.pjplace.com
 pjqchcfwtw.com
 pjsbuhl.icu
@@ -74513,7 +74522,6 @@ wkudly.realtruck.com
 uzevnf.realtystore.com
 realvu.com
 realvu.net
-realwap.net
 realxavounow.com
 v6.realxxx.com
 realxz.com
@@ -77318,7 +77326,6 @@ sachikru.com
 sachikru1.com
 sackbarngroups.com
 sackerskips.com
-sacovid19solution.com
 sacquebenzine.com
 sacre.cn
 sacrificeaffliction.com
@@ -91773,6 +91780,7 @@ u6.gg
 u68t5.icu
 u6s1q5u0y.com
 u78s.top
+u7em6.xyz
 u7kgr54jr7.ru
 u7u9.com
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 00:28 UTC
-# Version: 2024.0530.0028.48
+# Last modified: 30 May 2024 12:37 UTC
+# Version: 2024.0530.1237.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 136764
+# Number of entries: 136766
 #
 0.0.0.0 0-02.net
 0.0.0.0 0008d6ba2e.com
@@ -107564,9 +107564,6 @@
 0.0.0.0 realvu.net
 0.0.0.0 ac.realvu.net
 0.0.0.0 pr.realvu.net
-0.0.0.0 realwap.net
-0.0.0.0 gbs.realwap.net
-0.0.0.0 gbs1.realwap.net
 0.0.0.0 realxavounow.com
 0.0.0.0 realxz.com
 0.0.0.0 realytics.io
@@ -132821,6 +132818,8 @@
 0.0.0.0 wishoblivionfinished.com
 0.0.0.0 wishoutergrown.com
 0.0.0.0 wismog.xyz
+0.0.0.0 c677.wisn.com
+0.0.0.0 c.c677.wisn.com
 0.0.0.0 wisoper.click
 0.0.0.0 iqmetrics.wissen.de
 0.0.0.0 wister.biz
@@ -132949,6 +132948,7 @@
 0.0.0.0 static.wlct-two.de
 0.0.0.0 wleallwllbkok.top
 0.0.0.0 s.wlink1.com
+0.0.0.0 e993.wlky.com
 0.0.0.0 wlmarketing.com
 0.0.0.0 axp.wlns.com
 0.0.0.0 wlrkcefll.com
@@ -132960,6 +132960,8 @@
 0.0.0.0 www.wlt-jupiter.de
 0.0.0.0 ywrcqa.wltx.com
 0.0.0.0 wlvkzwqjlyzvr.top
+0.0.0.0 u578.wlwt.com
+0.0.0.0 c.u578.wlwt.com
 0.0.0.0 wlyfiii.com
 0.0.0.0 wlzlrlp.xyz
 0.0.0.0 wlzzwzekkrrzw.top
