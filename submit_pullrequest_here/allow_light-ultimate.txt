@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2811
+ephemeralcounters.api.roblox.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2806
 track.cvs.com
 
