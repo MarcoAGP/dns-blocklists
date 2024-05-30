@@ -79,6 +79,11 @@ telemetry.svn.mozilla.org
 telemetry.vpn.mozilla.org
 topsites.services.mozilla.com
 
+# https://github.com/hagezi/dns-blocklists/issues/2810
+backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com
+lms-split.roblox.com
+platinum.roblox.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2795
 abtesting.roblox.com
 gold.roblox.com
