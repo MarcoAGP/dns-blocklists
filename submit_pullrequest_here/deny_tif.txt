@@ -10,6 +10,8 @@
 
 # BEGIN
 
+winsim.co
+
 # https://github.com/hagezi/dns-blocklists/issues/2796
 bn6yedf.cfd
 
