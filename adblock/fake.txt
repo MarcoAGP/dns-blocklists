@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 May 2024 23:25 UTC
-! Version: 2024.0528.2325.51
+! Last modified: 29 May 2024 23:05 UTC
+! Version: 2024.0529.2305.27
 ! Syntax: AdBlock
-! Number of entries: 31132
+! Number of entries: 31130
 !
 ||003us.com^
 ||01crypto.com^
@@ -1577,7 +1577,6 @@
 ||angelnsneu.com^
 ||angelntoolrabattde.com^
 ||angelnverkauf.com^
-||angelnworld.de^
 ||angelosimone.com^
 ||angelrute-de.com^
 ||angelrutekleinerpreis.com^
@@ -6336,6 +6335,7 @@
 ||cialisdtab.online^
 ||cialisdtabs.quest^
 ||cialisdtk.com^
+||cialisdva.com^
 ||cialisdx.com^
 ||cialisdxt.com^
 ||cialise20mg.ru^
@@ -7673,7 +7673,6 @@
 ||cycleshopworld.com^
 ||cyclesprint.com^
 ||cycletechnet.com^
-||cycletirede.com^
 ||cycling100percent.com^
 ||cyclingabus.com^
 ||cyclinghelmetneu.com^
@@ -9847,7 +9846,6 @@
 ||europaischeapotheke.com^
 ||europamtb.com^
 ||europatradecapital.com^
-||europe-electro-shop.com^
 ||europe-overnite.com^
 ||europe-pharm.net^
 ||europe-pimco.com^
@@ -10742,6 +10740,7 @@
 ||fitpeakstore.com^
 ||five-star-drugs.com^
 ||fiveoneonetactical.com^
+||fivesixgroup.com^
 ||fivland.com^
 ||fix-finanz.com^
 ||fixdecline.com^
@@ -10994,7 +10993,6 @@
 ||franke-reifen.com^
 ||frankiesdubai.com^
 ||franksport.shop^
-||franziskawelpenhaus.com^
 ||franzisko-dachdecker.de^
 ||franzland.de^
 ||frcomposants.com^
@@ -14744,6 +14742,7 @@
 ||kamagra-zsele-gold.net^
 ||kamagra10.com^
 ||kamagra100.net^
+||kamagra1s1.com^
 ||kamagra24.gr^
 ||kamagra3.com^
 ||kamagra365.com^
@@ -14768,6 +14767,7 @@
 ||kamagrabrand.com^
 ||kamagrabst.com^
 ||kamagrabulgaria.com^
+||kamagraby6.com^
 ||kamagracheaper.eu^
 ||kamagracheaper.org^
 ||kamagrachef.com^
@@ -22253,6 +22253,7 @@
 ||rachellynngarris.com^
 ||racingproline.com^
 ||racquetsaleonline.com^
+||rad-xpert.de^
 ||radbekleidung4u.com^
 ||rader-loewen.de^
 ||radhabeauty.shop^
@@ -22381,6 +22382,7 @@
 ||receiverdual.de^
 ||recenter.top^
 ||recetasplus.com^
+||recialisdo.com^
 ||recuddles.shop^
 ||recuirud.com^
 ||recustomer.com^
@@ -23021,7 +23023,6 @@
 ||roth-reifenversand.shop^
 ||roth-versand.com^
 ||rothe-reifenversand.com^
-||roudamo.shop^
 ||roujedeutschland.com^
 ||rowa-versand.de^
 ||roxyosterreich.com^
@@ -24220,7 +24221,6 @@
 ||shares2win.com^
 ||sharkbitesale.com^
 ||sharkmood.com^
-||sharkos.de^
 ||sharoncrook.com^
 ||pl.sharonornellas.com^
 ||sharonvalenti.com^
@@ -28362,7 +28362,6 @@
 ||yeezyadidass.us.com^
 ||yeezyslides.us.com^
 ||yeezyy.us.com^
-||yzyshoes.us.com^
 ||zoloft.us.com^
 ||zoloftbest.us.org^
 ||zovirax.us.com^
@@ -29848,7 +29847,6 @@
 ||vivekmishrag.shop^
 ||vivermectin.com^
 ||viviagra.com^
-||vividglowing.com^
 ||viviennejewelryonlineoutletshop.com^
 ||viviservice.com^
 ||vivobarefootbrasil.net^

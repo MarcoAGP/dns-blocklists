@@ -56,7 +56,6 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
-https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://radar.cloudflare.com/domains
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt

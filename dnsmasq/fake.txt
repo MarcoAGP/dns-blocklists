@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 May 2024 23:25 UTC
-# Version: 2024.0528.2325.51
+# Last modified: 29 May 2024 23:05 UTC
+# Version: 2024.0529.2305.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 31132
+# Number of entries: 31130
 #
 local=/003us.com/
 local=/01crypto.com/
@@ -1576,7 +1576,6 @@ local=/angelmeds.com/
 local=/angelnsneu.com/
 local=/angelntoolrabattde.com/
 local=/angelnverkauf.com/
-local=/angelnworld.de/
 local=/angelosimone.com/
 local=/angelrute-de.com/
 local=/angelrutekleinerpreis.com/
@@ -6335,6 +6334,7 @@ local=/cialisdtab.com/
 local=/cialisdtab.online/
 local=/cialisdtabs.quest/
 local=/cialisdtk.com/
+local=/cialisdva.com/
 local=/cialisdx.com/
 local=/cialisdxt.com/
 local=/cialise20mg.ru/
@@ -7672,7 +7672,6 @@ local=/cyclepopular.com/
 local=/cycleshopworld.com/
 local=/cyclesprint.com/
 local=/cycletechnet.com/
-local=/cycletirede.com/
 local=/cycling100percent.com/
 local=/cyclingabus.com/
 local=/cyclinghelmetneu.com/
@@ -9846,7 +9845,6 @@ local=/europaeisches-treuhandkontor.com/
 local=/europaischeapotheke.com/
 local=/europamtb.com/
 local=/europatradecapital.com/
-local=/europe-electro-shop.com/
 local=/europe-overnite.com/
 local=/europe-pharm.net/
 local=/europe-pimco.com/
@@ -10741,6 +10739,7 @@ local=/fitouthometool.com/
 local=/fitpeakstore.com/
 local=/five-star-drugs.com/
 local=/fiveoneonetactical.com/
+local=/fivesixgroup.com/
 local=/fivland.com/
 local=/fix-finanz.com/
 local=/fixdecline.com/
@@ -10993,7 +10992,6 @@ local=/frank-hildebrandt.shop/
 local=/franke-reifen.com/
 local=/frankiesdubai.com/
 local=/franksport.shop/
-local=/franziskawelpenhaus.com/
 local=/franzisko-dachdecker.de/
 local=/franzland.de/
 local=/frcomposants.com/
@@ -14743,6 +14741,7 @@ local=/kamagra-wohnbau.com/
 local=/kamagra-zsele-gold.net/
 local=/kamagra10.com/
 local=/kamagra100.net/
+local=/kamagra1s1.com/
 local=/kamagra24.gr/
 local=/kamagra3.com/
 local=/kamagra365.com/
@@ -14767,6 +14766,7 @@ local=/kamagraboutique.com/
 local=/kamagrabrand.com/
 local=/kamagrabst.com/
 local=/kamagrabulgaria.com/
+local=/kamagraby6.com/
 local=/kamagracheaper.eu/
 local=/kamagracheaper.org/
 local=/kamagrachef.com/
@@ -22252,6 +22252,7 @@ local=/rachelentwistle-store.com/
 local=/rachellynngarris.com/
 local=/racingproline.com/
 local=/racquetsaleonline.com/
+local=/rad-xpert.de/
 local=/radbekleidung4u.com/
 local=/rader-loewen.de/
 local=/radhabeauty.shop/
@@ -22380,6 +22381,7 @@ local=/reborntraumland.de/
 local=/receiverdual.de/
 local=/recenter.top/
 local=/recetasplus.com/
+local=/recialisdo.com/
 local=/recuddles.shop/
 local=/recuirud.com/
 local=/recustomer.com/
@@ -23020,7 +23022,6 @@ local=/roth-handel.de/
 local=/roth-reifenversand.shop/
 local=/roth-versand.com/
 local=/rothe-reifenversand.com/
-local=/roudamo.shop/
 local=/roujedeutschland.com/
 local=/rowa-versand.de/
 local=/roxyosterreich.com/
@@ -24219,7 +24220,6 @@ local=/sharamiz.com/
 local=/shares2win.com/
 local=/sharkbitesale.com/
 local=/sharkmood.com/
-local=/sharkos.de/
 local=/sharoncrook.com/
 local=/pl.sharonornellas.com/
 local=/sharonvalenti.com/
@@ -28361,7 +28361,6 @@ local=/yeezy350s.us.com/
 local=/yeezyadidass.us.com/
 local=/yeezyslides.us.com/
 local=/yeezyy.us.com/
-local=/yzyshoes.us.com/
 local=/zoloft.us.com/
 local=/zoloftbest.us.org/
 local=/zovirax.us.com/
@@ -29847,7 +29846,6 @@ local=/vivaraisehome.com/
 local=/vivekmishrag.shop/
 local=/vivermectin.com/
 local=/viviagra.com/
-local=/vividglowing.com/
 local=/viviennejewelryonlineoutletshop.com/
 local=/viviservice.com/
 local=/vivobarefootbrasil.net/

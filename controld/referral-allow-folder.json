@@ -2262,6 +2262,13 @@
       }
     },
     {
+      "PK": "secure.everyaction.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "sendgrid-secure.bluecore.com",
       "action": {
         "do": 1,
