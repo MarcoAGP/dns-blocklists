@@ -1324,6 +1324,13 @@
       }
     },
     {
+      "PK": "reolink.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "reyhub.top",
       "action": {
         "do": 1,

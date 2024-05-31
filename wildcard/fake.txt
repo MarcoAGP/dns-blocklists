@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 May 2024 23:05 UTC
-# Version: 2024.0529.2305.27
+# Last modified: 30 May 2024 23:42 UTC
+# Version: 2024.0530.2342.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 31130
+# Number of entries: 31180
 #
 *.003us.com
 *.01crypto.com
@@ -1570,6 +1570,7 @@
 *.angelcindy.com
 *.angeldiana.com
 *.angelgeschaft-neu.com
+*.angelgeschaft-prada.com
 *.angelicaiannucci.com
 *.us.angeliqueligthart.com
 *.angelmeds.com
@@ -1872,6 +1873,7 @@
 *.aquaticsarea.com
 *.aquaticsart-ebikes.com
 *.aquaticscategory.com
+*.aquaticsmake.com
 *.aquaticsoptkit.com
 *.aquaticsportscp.com
 *.aquaticsstoreus.com
@@ -2020,6 +2022,7 @@
 *.asolocipele.com
 *.asolosko.com
 *.asparway.com
+*.aspectgoodsshop.com
 *.aspectwomen.com
 *.aspesiclothes.com
 *.aspiremeds.com
@@ -2124,6 +2127,7 @@
 *.attirechicpopular.com
 *.attireedgy.com
 *.attirefad.com
+*.attiremen.com
 *.attireoptimal.com
 *.attireowner.com
 *.attireusorder.com
@@ -2744,6 +2748,8 @@
 *.battingzonedirect.com
 *.battlefordboutiqde.shop
 *.bau-profis24.de
+*.baubleall.com
+*.baublesale.com
 *.bauchfinanzs.com
 *.bauchtaschenstore.com
 *.bauenspeichern.de
@@ -2753,6 +2759,7 @@
 *.baumann-autoreifen.shop
 *.baumann-elektroniks.de
 *.baumarkt-helden.de
+*.baumarkt-ulstertal.de
 *.baumarktneu.de
 *.baumarktverkauf.de
 *.baushopping.com
@@ -3158,6 +3165,7 @@
 *.bestsellersfurnishings.com
 *.bestsellersknife.com
 *.bestsellersman.com
+*.bestsellersmusic.com
 *.bestsellerspants.com
 *.bestselling-furniture.com
 *.bestsellingclothing.com
@@ -3611,6 +3619,7 @@
 *.bokershop.com
 *.bol-outlet.nl
 *.bold-estate.com
+*.boldraiment.com
 *.bollerts.de
 *.bolt-courier.com
 *.bon-belle.shop
@@ -4105,6 +4114,7 @@
 *.buycheappills.com
 *.buycheapsoma.com
 *.buycheaptablets.com
+*.buychildus.com
 *.buychloroquineonline.com
 *.buycialensf.com
 *.buyciali.com
@@ -4616,6 +4626,7 @@
 *.buyzoloft.com
 *.buyzopicloneonline.com
 *.buzzhence.com
+*.buzzyclothing.com
 *.bvalacyclovi.store
 *.bvaltrex.com
 *.bvokpharm.net
@@ -5630,7 +5641,6 @@
 *.cdo-forum-germany.de
 *.cdp-brennholz.de
 *.cdpills.com
-*.cdpills.online
 *.cdrx.com
 *.cdscomputer.de
 *.cealis.ru
@@ -6049,6 +6059,7 @@
 *.chicspecialized.com
 *.chictrendykids.com
 *.chicusfinery.com
+*.chicusoutdoor.com
 *.chicuszone.com
 *.chicwatersport.com
 *.chicwimsuit.com
@@ -6058,6 +6069,7 @@
 *.child-outdoor.com
 *.child-vogue.com
 *.childrenfurnitures.com
+*.childtrappingus.com
 *.childzoneopt.com
 *.chilllady.com
 *.chillup.at
@@ -6620,7 +6632,6 @@
 *.cialisrelibreli.com
 *.cialisrezeptfrei-d.com
 *.cialisrf.com
-*.cialisrf.online
 *.cialisrmed.com
 *.cialisrmp.com
 *.cialisrmp.online
@@ -7219,7 +7230,9 @@
 *.collinshealth.com
 *.collstein.com
 *.colmed.net
+*.colorfulbaubles.com
 *.colorfulrctoy.com
+*.colorfulsouvenirs.com
 *.colorfulvogue.com
 *.colorpharmacy.com
 *.colsportswear.com
@@ -7265,6 +7278,7 @@
 *.comfortablefeme.com
 *.comfortablejewelry.com
 *.comfortablemen.com
+*.comfortableraiment.com
 *.comfy-bra.store
 *.comgruppe.com
 *.comicsde.com
@@ -7399,6 +7413,8 @@
 *.coogle.at
 *.cookstreasure.com
 *.coolmathgamesforkids.net
+*.coolriverside.com
+*.coolstreamside.com
 *.cooponline.de
 *.cooppharmacy.top
 *.copenhagenschuhesale.de
@@ -7433,6 +7449,7 @@
 *.cosmeticsilky.com
 *.cosmeticsyy.com
 *.cosmopoint.de
+*.cosmwmagic.com
 *.cosplay-space.com
 *.cosplaydetailed.com
 *.cosplayer-paradise.com
@@ -7888,6 +7905,7 @@
 *.dealpills24.com
 *.dealpopzone.com
 *.deals-bicycle.com
+*.dealslakeside.com
 *.dealstennis.com
 *.dealsundies.com
 *.dealswimzone.com
@@ -9670,6 +9688,7 @@
 *.essentielhardware.com
 *.essentieloffice.com
 *.essentielonline.com
+*.essentielornaments.com
 *.essentielride.com
 *.essviagra.com
 *.esszimmerery.com
@@ -9845,6 +9864,7 @@
 *.europaischeapotheke.com
 *.europamtb.com
 *.europatradecapital.com
+*.europe-electro-shop.com
 *.europe-overnite.com
 *.europe-pharm.net
 *.europe-pimco.com
@@ -10059,6 +10079,7 @@
 *.factoryland.de
 *.facyline.de
 *.fadattirekids.com
+*.fadclothesus.com
 *.fadevery.com
 *.fadfootdeal.com
 *.fadforsale.com
@@ -10523,6 +10544,7 @@
 *.filmara.de
 *.filmmentol.com
 *.filmniedrigerpreis.de
+*.filmstvz.com
 *.filmteam-nieheim.de
 *.filous-garten.de
 *.filous-shop.de
@@ -10621,6 +10643,7 @@
 *.finestsurf.com
 *.finesttablewareshop.com
 *.finesttabs.com
+*.finesttrendy.com
 *.finestussport.com
 *.finetero.com
 *.finetoolshop.com
@@ -10701,6 +10724,7 @@
 *.fishapparels.com
 *.fishapparelshoe.com
 *.fishfundiscount.com
+*.fishhookery.com
 *.fishing-goods.com
 *.fishing-happy.com
 *.fishingareaus.com
@@ -10836,6 +10860,7 @@
 *.flovent.net
 *.flovent.org
 *.flow-electric.de
+*.flowyraiment.com
 *.fluconazole.cfd
 *.fluconazole.life
 *.fluconazole.net
@@ -10933,6 +10958,7 @@
 *.forhims.top
 *.fork-online.com
 *.forkliftsandmore.de
+*.formalknife.com
 *.formpills.com
 *.formsmarthome.de
 *.forpatiofurniture.com
@@ -11070,6 +11096,7 @@
 *.fritzsche-autoreifen.com
 *.fritzsche-reifenhandel.shop
 *.frmedicaments.net
+*.frmodeapc.com
 *.frnpharmacy.com
 *.frnpharmacy.online
 *.froddo-prada.de
@@ -11899,6 +11926,7 @@
 *.giftessentiel.com
 *.gifthobby.com
 *.giftsporting.com
+*.giftsportsus.com
 *.giftstore-toy.com
 *.giftwalldecor.com
 *.giftwarehome.com
@@ -12108,6 +12136,7 @@
 *.goldscheideanstalt-deutschland.com
 *.goldscheideanstalt-seit1970.de
 *.shop.goldsea.es
+*.goldsiegel-testsieger.de
 *.goldwinmarket.com
 *.goldx.org
 *.golf-favorite.com
@@ -12174,6 +12203,7 @@
 *.goodrxstore.com
 *.goodrxusa.com
 *.goodsmellshop.com
+*.goodsmusic.com
 *.goodstuffshoes.com
 *.goodstuffsport.com
 *.goodstufftool.com
@@ -14086,6 +14116,7 @@
 *.itemjoyca.com
 *.itemknives.com
 *.itemlingerie.com
+*.itemsclothus.com
 *.itemssurf.com
 *.itemssurfsale.com
 *.itemunusual.com
@@ -14576,6 +14607,7 @@
 *.joinsdaily.com
 *.jojofish.com
 *.jojolikes.com
+*.jojomamannew.com
 *.jokviagra.com
 *.joliemoiwear.com
 *.jolijnbags.com
@@ -14972,7 +15004,6 @@
 *.kckmoneyy.com
 *.kdomarket.com
 *.keds-suomi.com
-*.kedsaustria.at
 *.kedsberlin.de
 *.kedscanada.net
 *.kedsosterreich.com
@@ -15048,6 +15079,7 @@
 *.kiabrand.com
 *.kickarea.cn
 *.kickerssuomi.com
+*.kidattirenew.com
 *.kidcents.org
 *.kiddy-bikes.uk
 *.kidebro.com
@@ -15432,6 +15464,7 @@
 *.landcutlery.com
 *.landhomedecor.com
 *.landkaffee.com
+*.landornaments.com
 *.landoverprtcanada.shop
 *.laneberg.de
 *.lanetech.de
@@ -15900,6 +15933,7 @@
 *.likehomemall.com
 *.likehomeware.com
 *.likeshoeees.com
+*.liketosurf.com
 *.lilamstore.shop
 *.lilapharm.com
 *.liloviagra.com
@@ -16229,6 +16263,7 @@
 *.lovefortennis.com
 *.lovegoldsale.com
 *.lovegra.net
+*.lovehomeitem.com
 *.loveladywearpro.com
 *.lovelyhouseware.com
 *.lovelyknife.com
@@ -17250,6 +17285,7 @@
 *.merchandisekit.com
 *.mercimunich.de
 *.mereguim.de
+*.mergeclothus.com
 *.mergesportnew.com
 *.meridianfinance.pro
 *.meridianhouseitem.com
@@ -17311,7 +17347,6 @@
 *.metformin.wiki
 *.metformin.works
 *.metformin.wtf
-*.metformin-abc.com
 *.metformin0i0.com
 *.metformin10.com
 *.metformin1000.com
@@ -17508,6 +17543,7 @@
 *.mingxinautoparts.com
 *.miniflix.de
 *.minimalistcostume.com
+*.minimalitor.com
 *.minimaxbestsellers.com
 *.minimotorsusa.shop
 *.minimumfashion.shop
@@ -17820,6 +17856,7 @@
 *.monikagrille.com
 *.moniquederbez.com
 *.monkiverkauf.com
+*.monofilamentde.com
 *.monofileschnure.com
 *.monolith-shop.shop
 *.monopolyclothing.com
@@ -18902,6 +18939,7 @@
 *.novelty-female.com
 *.noveltyclimb.com
 *.noveltysdirect.com
+*.noveltywomens.com
 *.noviale.de
 *.novirastore.com
 *.novores.de
@@ -18923,6 +18961,7 @@
 *.nse-logistics.com
 *.nseisoy.com
 *.nsiviagra.com
+*.nsp-ie.com
 *.nsxcapital.com
 *.ntadalafil.com
 *.ntaior.com
@@ -19570,6 +19609,7 @@
 *.onlygardentools.com
 *.onlygeneric.com
 *.onlygenericonline.com
+*.onlynewin.com
 *.onlywesternclo.com
 *.onopur.de
 *.onoutlets.top
@@ -20089,6 +20129,7 @@
 *.overseaspharmacy.ru
 *.overseasrxdrugs.com
 *.oversoyede.shop
+*.oversurfing.com
 *.overthcounter.com
 *.overthecounter-store.com
 *.overthecounterhelp.com
@@ -20169,6 +20210,7 @@
 *.paintbadllbuddy.shop
 *.painthotsale.com
 *.paintwallstore.com
+*.pajamasclearance.com
 *.pajardeutschland.de
 *.pajarschuhe.com
 *.palacedeutschland.com
@@ -20530,7 +20572,6 @@
 *.pharmaboosters.com
 *.pharmabox.shop
 *.pharmabst.com
-*.pharmabst.online
 *.pharmacampus.net
 *.pharmacanadian.com
 *.pharmacareworld.com
@@ -20693,7 +20734,6 @@
 *.pharmacymall247.com
 *.pharmacymarketonline.com
 *.pharmacymarketonline.net
-*.pharmacymay.online
 *.pharmacymg.com
 *.pharmacymonitoring.com
 *.pharmacynextdoor.com
@@ -23112,6 +23152,7 @@
 *.russellnbromleycanada.com
 *.russiannewstoday.com
 *.rusticjusticerecords.com
+*.rustrsgadget.com
 *.rusttooloff.com
 *.rusty-surf.com
 *.ruudgranum.com
@@ -23187,7 +23228,6 @@
 *.rx-q.com
 *.rx-quality.com
 *.rx-quality-shop.com
-*.rx-qualityshop.com
 *.rx-reviews.com
 *.rx-roids.com
 *.rx-sale.net
@@ -24317,6 +24357,7 @@
 *.shop-with-needed-meds.com
 *.shop-womenshoe.com
 *.shop4pills.com
+*.shopaerobics.com
 *.shopanabolic.com
 *.shopanabolics.biz
 *.shopandie.com
@@ -24645,7 +24686,6 @@
 *.sildenafilmb.com
 *.sildenafilmd.com
 *.sildenafilmedicine.com
-*.sildenafilmedx.online
 *.sildenafilmg.com
 *.sildenafilmg.online
 *.sildenafilmtab.com
@@ -24795,6 +24835,7 @@
 *.sitediving.com
 *.sitefemale.com
 *.sitefinery.com
+*.sitefootwear.com
 *.sitegardentools.com
 *.siteinviting.com
 *.sitejewelrypro.com
@@ -24843,6 +24884,7 @@
 *.skiinglure.com
 *.skiingoffer.com
 *.skik2.de
+*.skilfuloutdoor.com
 *.skill-compass.online
 *.skillcamping.com
 *.skilledmeds.com
@@ -25143,6 +25185,7 @@
 *.space-tennis.com
 *.space-trendy.com
 *.spaceborneoutfitters.com
+*.spaceclothus.com
 *.spaceheatershop.com
 *.spacenewtools.com
 *.spacetablets.com
@@ -25258,6 +25301,7 @@
 *.sportskillsx.com
 *.sportsmaniamall.com
 *.sportspeople.us
+*.sportspherenet.com
 *.sportsstore-us.com
 *.sportstorepro.com
 *.sportsvital.de
@@ -25450,6 +25494,7 @@
 *.stock-jewelry.com
 *.stock-makeup.com
 *.stock-swim.com
+*.stockaerobics.com
 *.stockalfrescous.com
 *.stockbestus.com
 *.stockcamping.com
@@ -25783,6 +25828,7 @@
 *.stylishangelo.com
 *.stylishbeautyus.com
 *.stylishembellishments.com
+*.stylishfilm.com
 *.stylishmallvogue.com
 *.stylishmirror.com
 *.stylishpaulin.com
@@ -26010,6 +26056,7 @@
 *.surf-popular.com
 *.surfaddictoutlet.com
 *.surfapparelus.com
+*.surfaspectus.com
 *.surfattire.com
 *.surfboard-sales.com
 *.surfbuddiesnew.com
@@ -26076,6 +26123,7 @@
 *.swimsuitustrendy.com
 *.swimusworld.com
 *.swimweararea.com
+*.swimwearedgy.com
 *.swimwearladies.com
 *.swimwearlatest.com
 *.swimwearpl.com
@@ -26383,7 +26431,6 @@
 *.tadalafilmedi.com
 *.tadalafilmedi.online
 *.tadalafilmedx.com
-*.tadalafilmedx.online
 *.tadalafilmoreed.com
 *.tadalafilmsde.com
 *.tadalafilmtabs.com
@@ -26827,6 +26874,7 @@
 *.thecdifurniture.com
 *.thecheapest.club
 *.thechicchristmas.com
+*.thechildus.com
 *.thecoarsefishing.com
 *.thecraftssewing.com
 *.thecryptolimited.com
@@ -27008,6 +27056,7 @@
 *.thriftpharmacy.com
 *.thriftymeds.com
 *.thriftymedsnow.com
+*.thrillingoutdoor.com
 *.thrillsnew.com
 *.thrustmarkets.com
 *.thtruth.com
@@ -27066,6 +27115,7 @@
 *.tinagarten.de
 *.tinaknox.com
 *.tinko-versand.com
+*.tinyplayland.com
 *.tipcomponents.de
 *.7gdrh9ip2p1.tipicodeco.nl
 *.tiplubike.de
@@ -28398,6 +28448,7 @@
 *.usadrugs-express.com
 *.usadrugstorenow.com
 *.usadventureseek.com
+*.usaerobicssale.com
 *.usafadmagic.com
 *.usafastgenerics.com
 *.usafastmeds.com
@@ -28496,6 +28547,7 @@
 *.usgolfofficial.com
 *.ushandybath.com
 *.ushcginjections.com
+*.usholidaystuff.com
 *.ushomeitems.com
 *.ushomeshop.com
 *.ushouseholdonsale.com
@@ -28626,9 +28678,12 @@
 *.usualshoes.com
 *.usviagpll.com
 *.usvoguefield.com
+*.usvoguemen.com
 *.usvoguespace.com
 *.usvoguevaults.com
+*.usvoguewomen.com
 *.uswomenshoe.com
+*.uswomenvogue.com
 *.usxpharm.online
 *.uszonestylish.com
 *.utcialis.com
@@ -29182,7 +29237,6 @@
 *.viagracialisprofessional.com
 *.viagracialissaljes.se
 *.viagracialissildenafil.com
-*.viagracialistabs.online
 *.viagracialistadalafil.com
 *.viagracine.com
 *.viagracine.org
@@ -29190,7 +29244,6 @@
 *.viagracli.com
 *.viagraclones.com
 *.viagracmed.com
-*.viagracmed.online
 *.viagracnd.com
 *.viagracnd.online
 *.viagracom24h.com
@@ -29214,7 +29267,6 @@
 *.viagradf.com
 *.viagradh.com
 *.viagradi.com
-*.viagradio.online
 *.viagradmed.com
 *.viagradn.com
 *.viagradoctorskllr.com
@@ -29228,7 +29280,6 @@
 *.viagradup.com
 *.viagraecanadianpharmacyonline.ru
 *.viagraeci.com
-*.viagraeci.online
 *.viagraed-noprescription.com
 *.viagraedtabs.com
 *.viagraehomedelivery.ru
@@ -29269,7 +29320,6 @@
 *.viagrafreeoffer.com
 *.viagrafreeonline.com
 *.viagrafromcanada.online
-*.viagrafromindia.online
 *.viagrafromuk.com
 *.viagrafse.com
 *.viagraftabs.com
@@ -29291,7 +29341,6 @@
 *.viagragenr.com
 *.viagragenupi.com
 *.viagragenx.com
-*.viagragenx.online
 *.viagraggbrx.com
 *.viagragif.com
 *.viagragm.com
@@ -29336,7 +29385,6 @@
 *.viagrajtab.com
 *.viagrajtab.monster
 *.viagrajtabs.com
-*.viagrajtabs.online
 *.viagrajupiter.com
 *.viagrakari.com
 *.viagrakkk.com
@@ -29683,7 +29731,6 @@
 *.viagrayup.com
 *.viagrazet.com
 *.viagrazoom.com
-*.viagrazoom.online
 *.viagrazt.com
 *.viagrazt.online
 *.viagraztab.com
@@ -29729,6 +29776,7 @@
 *.vibelivingroom.com
 *.vibramosterreich.at
 *.vibramvypredaj.sk
+*.vibrantraiment.com
 *.viceregale.com
 *.vicotoris.com
 *.vicpota.com
@@ -29755,6 +29803,7 @@
 *.vierecdr.com
 *.vierecp.com
 *.vierjahreszeiten-versand.com
+*.vierjahreszeiten-versands.de
 *.vig-rx-plus.com
 *.vigedon.com
 *.vignobles-terroirs.com
@@ -30255,6 +30304,7 @@
 *.wholesaleacsymarket.shop
 *.wholesalerkitchen.com
 *.whungeroir.shop
+*.why-whalechild.com
 *.wi-pm.de
 *.wicha-gmbh.de
 *.wichmann-reifenversand.com

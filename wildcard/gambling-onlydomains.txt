@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 May 2024 14:27 UTC
-# Version: 2024.0530.1427.31
+# Last modified: 30 May 2024 23:23 UTC
+# Version: 2024.0530.2323.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 278075
+# Number of entries: 278084
 #
 0-55bmw.vip
 0-bet.com
@@ -104545,6 +104545,7 @@ calottery.com
 calpion.com
 calpronet-sj.org
 caltechservices.com
+caltroxsoft.com
 calvin500.org
 calvincasino.com
 calvinfong.com
@@ -135361,6 +135362,7 @@ gb105.com
 gb1116.com
 gb1119.com
 gb123.bio
+gb123.link
 gb165.com
 gb172.com
 gb173.com
@@ -172404,6 +172406,7 @@ kubet88.group
 kubet88.kim
 kubet88.sh
 kubet88.win
+kubet881.world
 kubet888.com
 kubet888.info
 kubet888.pro
@@ -203978,6 +203981,7 @@ pafikotajayapura.org
 pafikotalhokseumawe.org
 pafikotapalu.org
 pafikotapekanbaru.org
+pafikotasiantar.org
 pafikotasurabaya.org
 pafikotatangerang.org
 pafikotatasik.org
@@ -212031,6 +212035,7 @@ pludermacher.org
 pluginbuddy.com
 pluitvillagemall.com
 rtplongsukses.plumandsplitmilk.com
+plumbingexpertselpaso.com
 plumbingzones.com
 plumoakland.com
 pluraletantum.com
@@ -215706,6 +215711,7 @@ puma99selalu.com
 rtp.pumaelektrik.com
 rtp2.pumaelektrik.com
 pumpkin-patch.com
+pumpkinpatchearlylearningcenter.com
 pumpsheds.com
 pumpsushiandthai.com
 pun10.shop
@@ -223071,6 +223077,7 @@ rokokslotvvip.com
 rokpredin.com
 rokscasino.club
 roku-casino.top
+roku88.shop
 rokubet.com
 rokucasino.top
 rokucasino-tr.com
@@ -233314,6 +233321,7 @@ shababsyria.org
 shabu189.biz
 shackletoncentenary.org
 shadeair.xyz
+shadesofgreenpub.com
 shadow-bar.com
 shadowcreekgolf.com
 shadowcreekgolfcourse.com
@@ -249360,6 +249368,7 @@ tiktaksukses.com
 tiktakvip.com
 tiktok77.online
 tiktok88.click
+tiktok88pro.com
 tiktok919.com
 tiktokgg.store
 tiktokslot.online

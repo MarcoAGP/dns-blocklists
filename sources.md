@@ -56,6 +56,7 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://radar.cloudflare.com/domains
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
@@ -115,8 +116,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
-https://raw.githubusercontent.com/cbuijs/accomplist/master/chris/nrd-30-days.list
-https://raw.githubusercontent.com/cbuijs/accomplist/master/chris/nrd-7-days.list
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
@@ -382,7 +381,6 @@ https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
 https://raw.githubusercontent.com/velesila/yhosts/master/hosts
 https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-abp.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_adblock.txt
 https://raw.githubusercontent.com/xRuffKez/NXPhish/main/nxphish.agh
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2024 10:53 UTC
-# Version: 2024.0530.1053.53
+# Last modified: 30 May 2024 22:53 UTC
+# Version: 2024.0530.2253.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 82417
+# Number of entries: 82451
 #
 *.0.beer
 *.0.club
@@ -6630,6 +6630,7 @@
 *.aadinum.in
 *.aadisoftindia.com
 *.aadista.in
+*.aadlumhucjahrtn.xyz
 *.aadyanoverseas.com
 *.aadyasingh.in
 *.aaekapharma.com
@@ -13378,6 +13379,7 @@
 *.bdbo123.com
 *.bdflogistics.com
 *.bdggoyalgroup.com
+*.bdqpdhoert.com
 *.bdrcxiwiog.com
 *.bdsellzone.com
 *.bdsmrencontres.com
@@ -19915,6 +19917,7 @@
 *.cmllk2.info
 *.cmlwaup.com
 *.cmm.asia
+*.cmoa.pro
 *.cmpgns.net
 *.cmpsywu.com
 *.cmqjims.com
@@ -27559,6 +27562,7 @@
 *.ecelotsigno.net
 *.ecfzzprphz.com
 *.ecgigge.top
+*.echaruropygi.com
 *.echefoph.net
 *.echehalids.guru
 *.echelonauburn.com
@@ -28941,6 +28945,7 @@
 *.eontappetito.com
 *.eopaving.com
 *.eopleshouldt.info
+*.eopleshouldthink.info
 *.eorcanada.com
 *.eoredi.com
 *.eorganizatio.com
@@ -33446,6 +33451,7 @@
 *.geerairu.net
 *.geethaihoa.com
 *.geethoap.com
+*.geewooheene.net
 *.geezersrecusal.website
 *.gegbeiaojmfgnkw.com
 *.geggeewrossle.com
@@ -34307,6 +34313,7 @@
 *.glursihi.net
 *.glutchausso.xyz
 *.glutealreboard.digital
+*.glutenmuttsensuous.com
 *.gluttoneloisedeaf.com
 *.gluttonstayaccomplishment.com
 *.gluttonybrand.com
@@ -35703,10 +35710,12 @@
 *.gx101.com
 *.gxdowell.cn
 *.gxdzfyg.com
+*.gxfuwkgsp.com
 *.gxgu9gktreso.com
 *.gxhxmy88.com
 *.gxordgtvjr.com
 *.gxpnsiolfm.com
+*.gxtmsmni.com
 *.gyaanlab.in
 *.gyan-fresh.org
 *.gyandeepmandhar.com
@@ -37214,6 +37223,7 @@
 *.hjhbhddren.com
 *.hjhrb.com
 *.hjkld.yt
+*.hjmnfdab.com
 *.hjneng.com
 *.hjnvaykadndt.com
 *.hjw.design
@@ -37527,6 +37537,7 @@
 *.honourrib.com
 *.honoursdashed.com
 *.honoursimmoderate.com
+*.honxmczx.com
 *.honzabarton.com
 *.hoo1luha.com
 *.hoodentangle.com
@@ -40860,6 +40871,7 @@
 *.izaure.com
 *.izavugne.com
 *.izbmbmt.com
+*.izcnznfofa.com
 *.izhvs.ru
 *.izitrckr.com
 *.izjzkye.com
@@ -41603,6 +41615,7 @@
 *.jmydjxik.com
 *.jndhosting.com
 *.jnhjpdayvpzj.com
+*.jniugbcfbdaoiq.com
 *.jnlldyq.com
 *.jnnjthg.com
 *.jnqianhui.com
@@ -43518,6 +43531,7 @@
 *.kt5850pjz0.com
 *.ktbac.net
 *.ktdctravel.com
+*.ktdidotst.com
 *.ktl-co.net
 *.ktobedirectu.xyz
 *.ktolwegihn.com
@@ -44123,6 +44137,7 @@
 *.latinoboulevard.com
 *.rw.latinochancer.com
 *.latinopoetry.org
+*.latinwayy.com
 *.latinxpoetry.org
 *.latinzzis.com
 *.lationalmilerague.com
@@ -46206,6 +46221,7 @@
 *.lustrous-cheek.com
 *.lustymom.com
 *.lutachechu.pro
+*.lutcmtoebuud.com
 *.lutealdrazel.life
 *.luthier.cloud
 *.luuming.com
@@ -48296,6 +48312,7 @@
 *.me.mhosspunk.com
 *.mhps.in
 *.mhshackclub.tech
+*.mhuisrfx.xyz
 *.mhwpwcj.com
 *.mhxyiqtan.com
 *.mhzmhd.xyz
@@ -50062,6 +50079,7 @@
 *.mwijafmpion.com
 *.mwikpepfiw.com
 *.mwirawdrexp.com
+*.mwkusgotlzu.com
 *.mwmxyurgupy.com
 *.mwoqpiackpke.com
 *.mworkhovdimin.info
@@ -54430,6 +54448,7 @@
 *.oryxesratos.digital
 *.oryxint.com
 *.os2mypcw8.com
+*.osageafresh.com
 *.osaminepigee.space
 *.osarmapa.net
 *.osatky.com
@@ -54866,6 +54885,7 @@
 *.oversightbullet.com
 *.oversleepcommercerepeat.com
 *.oversleepwilling.com
+*.oversolosisor.com
 *.oversoulermeditation.com
 *.overswaloton.com
 *.overswirling.sbs
@@ -57410,6 +57430,7 @@
 *.plewnitpick.top
 *.plexop.net
 *.plexureturp.com
+*.plfmhaqpzp.com
 *.pliablechillyblacken.com
 *.plianteditdisembark.com
 *.pliantleft.com
@@ -61902,6 +61923,7 @@
 *.renuyou.us
 *.reoilsoxyntic.top
 *.reoilspinors.top
+*.reopensnews.com
 *.reoreexpresi.com
 *.reorganizeglaze.com
 *.reotherebyfery.club
@@ -62571,6 +62593,7 @@
 *.ridfunnyassuredness.com
 *.ridgejacuaru.website
 *.ridgescrapstadium.com
+*.ridgewaypartners.london
 *.ridh0okme.com
 *.ridiculousatta.xyz
 *.ridiculousegoismaspirin.com
@@ -68684,6 +68707,7 @@
 *.ssdchtnvqolntaj.com
 *.ssdwellsgrpo.info
 *.ssedonthep.info
+*.sseqctwdu.com
 *.ssfr.ca
 *.ssglobalschool.in
 *.ssh-hotspot.com
@@ -69004,6 +69028,7 @@
 *.stcroixclubnaples.com
 *.stdbuild.com
 *.stdirection.com
+*.stdkhrcbsomys.com
 *.ste23allas5ri6va.com
 *.steadfastyachting.net
 *.steadfastyachting.us
@@ -75542,6 +75567,7 @@
 *.umekana.ru
 *.umeleckyrezbar.com
 *.umentrandings.xyz
+*.umescomymanda.info
 *.umeshkumar.life
 *.umetulrukrut.com
 *.umexalim.com
@@ -75555,6 +75581,7 @@
 *.umpquaressort.website
 *.umqqfyqkjlxrh.xyz
 *.umteenodyles.guru
+*.umtudo.com
 *.umuotov.com
 *.umusjdiehxbn.com
 *.umwmwxpivtwkyo.xyz
@@ -76209,6 +76236,7 @@
 *.upstandingmoscow.com
 *.upstandingwinnerjet.com
 *.upstdc.org
+*.upsups.click
 *.upsweepdorical.digital
 *.upswell.store
 *.vp.upswingmethyl.com
@@ -76537,6 +76565,7 @@
 *.uu9zz.xyz
 *.uubforbdc2om.com
 *.uubointern.org
+*.uuciqggwosigk.com
 *.uudzfbzthj.com
 *.uuhuanfu.com
 *.uuidksinc.net
@@ -78885,6 +78914,7 @@
 *.webslot.xyz
 *.websoduku.com
 *.webstatisticspro.net
+*.webstats1.com
 *.websteroidsapp.com
 *.websurf.zip
 *.webswpos.com
@@ -79815,6 +79845,7 @@
 *.wka4jursurf6.com
 *.wknaczrxjrj.com
 *.wkqcnkstso.com
+*.wkqqdchbbz.com
 *.wl-jup.com
 *.wlafx4trk.com
 *.wlawpzx.com
@@ -80362,6 +80393,7 @@
 *.wwahuxzipoc.com
 *.wwclickads.club
 *.wwhnjrg.com
+*.wwicnmksxd.com
 *.wwija.com
 *.wwinfyzurbw.com
 *.wwjianwynv.xyz
@@ -80657,6 +80689,7 @@
 *.xiaoxiongyouao.com
 *.xibilitukydteam.info
 *.xicaquerunty.top
+*.xigfqlwsbbtx.com
 *.xiiifulaydntxhhnc.com
 *.xiiigaming.com
 *.xijfweoxrrku.com
@@ -82380,6 +82413,7 @@
 *.zwyjpyocwv.com
 *.zxcbaby.ru
 *.zxcdn.com
+*.zxkyvjks.com
 *.zxmojgj.com
 *.zxpqwwt.com
 *.zxr9gpxf7j.com
