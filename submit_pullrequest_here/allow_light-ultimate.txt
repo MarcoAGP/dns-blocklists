@@ -25,6 +25,9 @@ fingerprint.pb.ua
 
 # https://github.com/hagezi/dns-blocklists/issues/2797
 c0ak.rbxcdn.com
+# https://github.com/hagezi/dns-blocklists/issues/2812#issuecomment-2140946043
+c0aws.rbxcdn.com
+c0cfly.rbxcdn.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2793
 *.msrareservices.com

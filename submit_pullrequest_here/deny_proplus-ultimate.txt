@@ -88,8 +88,6 @@ platinum.roblox.com
 abtesting.roblox.com
 gold.roblox.com
 robloxlabs.com
-c0aws.rbxcdn.com
-c0cfly.rbxcdn.com
 ecsv2.roblox.com
 metrics.roblox.com
 
