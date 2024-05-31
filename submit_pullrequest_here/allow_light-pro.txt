@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2815
+s.go-mpulse.net
+
 # https://github.com/hagezi/dns-blocklists/issues/2754
 telemetry.banuba.cloud
 stats.sdk.banuba.net
