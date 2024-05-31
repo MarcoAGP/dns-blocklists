@@ -11,6 +11,9 @@
 
 # BEGIN
 
+# https://github.com/hagezi/dns-blocklists/issues/2813
+ipmcdn.avast.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2811
 ephemeralcounters.api.roblox.com
 
